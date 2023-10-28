@@ -5,7 +5,10 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "smarthome-kit": "github:tinkertanker/pxt-smarthome#v2.2.1",
+        "Grove": "github:seeed-studio/pxt-grove#v0.5.0",
+        "radio-broadcast": "*"
     },
     "files": [
         "README.md",
